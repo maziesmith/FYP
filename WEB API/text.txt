@@ -1,0 +1,3 @@
+filteering of est according to min max specs
+iterate downwards
+//////////////////

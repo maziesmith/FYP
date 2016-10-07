@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="76d265d6-d8ad-4d38-b07a-7aa5956dc7af"
+  name="Web"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="29118f33-28b6-4fa7-959f-5475aa920c9c"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DSystem.Web"
+      tag="ViewCode" />
+  </referencesInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="db529d47-c9b4-463c-bce0-10e4767b36d0">
+      <profileInstance
+        Id="5bc1e96f-cee8-40c9-876a-4664cba18376"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="26876671-7570-475d-880f-10ec3bdbaa9f"
+        name="HttpApplication"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="bde0744d-5d8f-4104-b4e5-e3d3a6469c94"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FReference Assemblies%2FMicrosoft%2FFramework%2F.NETFramework%2Fv4.5%2FSystem.Web.dll&quot; Namespace%3DSystem.Web Type%3DHttpApplication"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="7beec428-2a7c-4fc8-bb27-23540f6fa96f"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6006f74f-decf-4165-a5a7-b529275d4c7c">
+                <propertyInstance
+                  Id="b0c3bb8e-646a-4aab-9896-bbd49abd878d"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="0f66eed3-28a2-4996-8d07-b8fcf13c056a">
+                <propertyInstance
+                  Id="3c0c2616-bbfd-486f-84ff-4a82746b95fe"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3e5b3d87-fde9-4dd9-9ca7-fff691934a0d">
+                <propertyInstance
+                  Id="bedd5d57-4c2e-4c57-abd7-9707bb93bd59"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="dc79b7fc-dcce-4ec8-9a91-46c058be5891">
+                <propertyInstance
+                  Id="cb292188-939c-468c-b4cd-ef0f8961ea2c"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="30b64542-b02f-48a7-80d6-081fa9b05331">
+                <propertyInstance
+                  Id="47de4025-6204-4723-acc9-b16f11ffd6ce"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="d04165b3-0c83-4a8d-ad0f-d7390ad61106"
+        LastKnownName="Routing"
+        LastKnownLocation="Package3_1828.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="5a07be2b-8ffc-4d90-91ae-82dec6cbb64b"
+        LastKnownName="Optimization"
+        LastKnownLocation="Package4_1828.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="7b9e07cf-abda-493f-bd97-e519dc3cf951"
+        LastKnownName="Http"
+        LastKnownLocation="Package5_1828.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="5ad40503-a957-4f70-8569-114e2852037b"
+        LastKnownName="Mvc"
+        LastKnownLocation="Package6_1828.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

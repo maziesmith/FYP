@@ -1,0 +1,313 @@
+D:\Test\Testapi\Testapi\bin\Testapi.dll.config
+D:\Test\Testapi\Testapi\bin\Testapi.dll
+D:\Test\Testapi\Testapi\bin\Testapi.pdb
+D:\Test\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\Test\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\Testapi\Testapi\bin\MySql.Data.dll
+D:\Test\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\Test\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\Test\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\Test\Testapi\Testapi\bin\System.Web.Http.dll
+D:\Test\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\Test\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\Test\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\Test\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\Test\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\Test\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\Test\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\Test\Testapi\Testapi\bin\WebGrease.dll
+D:\Test\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\Test\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\Test\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\Test\Testapi\Testapi\bin\System.Web.Http.xml
+D:\Test\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\Test\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\Test\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\Test\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\Test\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\Test\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\Test\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\Test\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\Test\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\Test\Testapi\Testapi\obj\Release\Testapi.dll
+D:\Test\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\Code Demo\Testapi\Testapi\bin\Testapi.dll.config
+D:\Code Demo\Testapi\Testapi\bin\Testapi.dll
+D:\Code Demo\Testapi\Testapi\bin\Testapi.pdb
+D:\Code Demo\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\Code Demo\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Code Demo\Testapi\Testapi\bin\MySql.Data.dll
+D:\Code Demo\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Http.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\Code Demo\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\Code Demo\Testapi\Testapi\bin\WebGrease.dll
+D:\Code Demo\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Http.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\Code Demo\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\Code Demo\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\Code Demo\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\Code Demo\Testapi\Testapi\obj\Release\Testapi.dll
+D:\Code Demo\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\progress-copy\11\Testapi\Testapi\bin\Testapi.dll.config
+D:\progress-copy\11\Testapi\Testapi\bin\Testapi.dll
+D:\progress-copy\11\Testapi\Testapi\bin\Testapi.pdb
+D:\progress-copy\11\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\progress-copy\11\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\progress-copy\11\Testapi\Testapi\bin\MySql.Data.dll
+D:\progress-copy\11\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Http.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\progress-copy\11\Testapi\Testapi\bin\WebGrease.dll
+D:\progress-copy\11\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Http.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\progress-copy\11\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\progress-copy\11\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\progress-copy\11\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\progress-copy\11\Testapi\Testapi\obj\Release\Testapi.dll
+D:\progress-copy\11\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Testapi.dll.config
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Testapi.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Testapi.pdb
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\MySql.Data.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\WebGrease.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\latest\11 - Copy - Copy\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\latest\11 - Copy - Copy\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\latest\11 - Copy - Copy\Testapi\Testapi\obj\Release\Testapi.dll
+D:\latest\11 - Copy - Copy\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Testapi.dll.config
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Testapi.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Testapi.pdb
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\MySql.Data.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\WebGrease.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\obj\Release\Testapi.dll
+D:\latest\11 - Copy - Copy - Copy\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Testapi.dll.config
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Testapi.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Testapi.pdb
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\MySql.Data.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Http.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\WebGrease.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Http.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\obj\Release\Testapi.dll
+D:\latest\11 - Copy - Copy - Copy - Copy [time]\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\latest\Version 1\Testapi\Testapi\bin\Testapi.dll.config
+D:\latest\Version 1\Testapi\Testapi\bin\Testapi.dll
+D:\latest\Version 1\Testapi\Testapi\bin\Testapi.pdb
+D:\latest\Version 1\Testapi\Testapi\bin\Antlr3.Runtime.dll
+D:\latest\Version 1\Testapi\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\latest\Version 1\Testapi\Testapi\bin\MySql.Data.dll
+D:\latest\Version 1\Testapi\Testapi\bin\Newtonsoft.Json.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Net.Http.Formatting.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Helpers.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Http.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Http.WebHost.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Mvc.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Optimization.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Razor.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.WebPages.dll
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\latest\Version 1\Testapi\Testapi\bin\WebGrease.dll
+D:\latest\Version 1\Testapi\Testapi\bin\Newtonsoft.Json.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Net.Http.Formatting.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Helpers.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Http.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Http.WebHost.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Mvc.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Optimization.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.Razor.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.WebPages.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\latest\Version 1\Testapi\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\latest\Version 1\Testapi\Testapi\bin\Antlr3.Runtime.pdb
+D:\latest\Version 1\Testapi\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\latest\Version 1\Testapi\Testapi\obj\Release\Testapi.dll
+D:\latest\Version 1\Testapi\Testapi\obj\Release\Testapi.pdb
+D:\Version gpu\WEB API\Testapi\bin\Testapi.dll.config
+D:\Version gpu\WEB API\Testapi\bin\Testapi.dll
+D:\Version gpu\WEB API\Testapi\bin\Testapi.pdb
+D:\Version gpu\WEB API\Testapi\bin\Antlr3.Runtime.dll
+D:\Version gpu\WEB API\Testapi\bin\EntityFramework.dll
+D:\Version gpu\WEB API\Testapi\bin\EntityFramework.SqlServer.dll
+D:\Version gpu\WEB API\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Version gpu\WEB API\Testapi\bin\MySql.Data.dll
+D:\Version gpu\WEB API\Testapi\bin\Newtonsoft.Json.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Data.SQLite.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Data.SQLite.EF6.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Data.SQLite.Linq.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Net.Http.Formatting.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Helpers.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Http.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Http.WebHost.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Mvc.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Optimization.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Razor.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.WebPages.dll
+D:\Version gpu\WEB API\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\Version gpu\WEB API\Testapi\bin\WebGrease.dll
+D:\Version gpu\WEB API\Testapi\bin\EntityFramework.xml
+D:\Version gpu\WEB API\Testapi\bin\EntityFramework.SqlServer.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Data.SQLite.xml
+D:\Version gpu\WEB API\Testapi\bin\Newtonsoft.Json.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Net.Http.Formatting.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Helpers.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Http.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Http.WebHost.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Mvc.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Optimization.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.Razor.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.WebPages.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\Version gpu\WEB API\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\Version gpu\WEB API\Testapi\bin\Antlr3.Runtime.pdb
+D:\Version gpu\WEB API\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\Version gpu\WEB API\Testapi\obj\Release\Testapi.dll
+D:\Version gpu\WEB API\Testapi\obj\Release\Testapi.pdb
+D:\Shifa Copy\WEB API\Testapi\bin\Testapi.dll.config
+D:\Shifa Copy\WEB API\Testapi\bin\Testapi.dll
+D:\Shifa Copy\WEB API\Testapi\bin\Testapi.pdb
+D:\Shifa Copy\WEB API\Testapi\bin\Antlr3.Runtime.dll
+D:\Shifa Copy\WEB API\Testapi\bin\EntityFramework.dll
+D:\Shifa Copy\WEB API\Testapi\bin\EntityFramework.SqlServer.dll
+D:\Shifa Copy\WEB API\Testapi\bin\Microsoft.Web.Infrastructure.dll
+D:\Shifa Copy\WEB API\Testapi\bin\MySql.Data.dll
+D:\Shifa Copy\WEB API\Testapi\bin\Newtonsoft.Json.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Data.SQLite.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Data.SQLite.EF6.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Data.SQLite.Linq.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Net.Http.Formatting.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Helpers.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Http.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Http.WebHost.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Mvc.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Optimization.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Razor.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.WebPages.Deployment.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.WebPages.dll
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.WebPages.Razor.dll
+D:\Shifa Copy\WEB API\Testapi\bin\WebGrease.dll
+D:\Shifa Copy\WEB API\Testapi\bin\EntityFramework.xml
+D:\Shifa Copy\WEB API\Testapi\bin\EntityFramework.SqlServer.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Data.SQLite.xml
+D:\Shifa Copy\WEB API\Testapi\bin\Newtonsoft.Json.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Net.Http.Formatting.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Helpers.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Http.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Http.WebHost.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Mvc.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Optimization.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.Razor.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.WebPages.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.WebPages.Deployment.xml
+D:\Shifa Copy\WEB API\Testapi\bin\System.Web.WebPages.Razor.xml
+D:\Shifa Copy\WEB API\Testapi\bin\Antlr3.Runtime.pdb
+D:\Shifa Copy\WEB API\Testapi\obj\Release\Testapi.csprojResolveAssemblyReference.cache
+D:\Shifa Copy\WEB API\Testapi\obj\Release\Testapi.dll
+D:\Shifa Copy\WEB API\Testapi\obj\Release\Testapi.pdb
